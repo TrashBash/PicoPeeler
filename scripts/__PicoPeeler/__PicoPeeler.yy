@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__PicoPeeler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__PicoPeeler",
+  "parent":{
+    "name":"PicoPeeler",
+    "path":"folders/PicoPeeler.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

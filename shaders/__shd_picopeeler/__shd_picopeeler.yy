@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"__shd_picopeeler",
+  "name":"__shd_picopeeler",
+  "parent":{
+    "name":"PicoPeeler",
+    "path":"folders/PicoPeeler.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
